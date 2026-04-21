@@ -45,9 +45,6 @@ The program greets the user, displays coffee types, prompts for temperature, top
 
 See [GB15_S2_S5_BERR_Report.pdf](./GB15_S2_S5_BERR_Report.pdf) for full documentation including flowchart, source code, and sample outputs.
 
-## Video Demo
-
-[Watch on YouTube](https://youtu.be/PPYvkgPHnC8?si=N9YuCSyx_AlLL4Ac)
 
 ## Team
 
